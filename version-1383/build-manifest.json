@@ -1,0 +1,20 @@
+{
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "video_source_count_extracted_from_original_js": 20,
+  "html_page_count": 2014,
+  "category_distribution": {
+    "国产佳作": 200,
+    "日韩精选": 200,
+    "欧美视野": 200,
+    "热门电影": 200,
+    "高分剧集": 200,
+    "爱情青春": 200,
+    "悬疑犯罪": 200,
+    "古装奇幻": 200,
+    "喜剧治愈": 200,
+    "剧情专题": 200
+  },
+  "uses_cover_paths": "1.jpg through 150.jpg at site root"
+}
